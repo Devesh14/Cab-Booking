@@ -1,0 +1,13 @@
+{
+    "presets": ["env", "flow"],
+    "plugins": [
+      "transform-object-rest-spread",
+      [
+        "transform-runtime",
+        {
+          "regenerator": true
+        }
+      ]
+    ]
+  }
+  
