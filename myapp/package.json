@@ -31,7 +31,7 @@
 		"neat-csv": "^5.1.0",
 		"nodemon": "^2.0.2",
 		"os": "^0.1.1",
-		"pug": "2.0.0-beta11",
+		"pug": "3.0.1",
 		"swagger-ui-express": "^4.1.4",
 		"uuid": "^3.4.0"
 	},
